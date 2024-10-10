@@ -1,0 +1,6 @@
+﻿  Cient.cpp
+C:\Users\lenovo\Desktop\C++\SelectModel\clientCPP\Cient.cpp(99,2): warning C4102: “defaut”: 未引用的标签
+  main.cpp
+  正在生成代码...
+C:\Users\lenovo\Desktop\C++\SelectModel\clientCPP\Cient.cpp(40,1): warning C4715: “Client::init”: 不是所有的控件路径都返回值
+  clientCPP.vcxproj -> C:\Users\lenovo\Desktop\C++\SelectModel\x64\Debug\clientCPP.exe

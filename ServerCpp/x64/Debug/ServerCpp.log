@@ -1,0 +1,12 @@
+﻿  Client.cpp
+  main.cpp
+  MessageInterface.cpp
+  recvServer.cpp
+C:\Users\lenovo\Desktop\C++\SelectModel\ServerCpp\recvServer.cpp(135,21): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  ServerCpp.cpp
+C:\Users\lenovo\Desktop\C++\SelectModel\ServerCpp\ServerCpp.cpp(22,11): warning C4305: “return”: 从“int”到“bool”截断
+C:\Users\lenovo\Desktop\C++\SelectModel\ServerCpp\ServerCpp.cpp(29,11): warning C4305: “return”: 从“int”到“bool”截断
+C:\Users\lenovo\Desktop\C++\SelectModel\ServerCpp\ServerCpp.cpp(41,11): warning C4305: “return”: 从“int”到“bool”截断
+C:\Users\lenovo\Desktop\C++\SelectModel\ServerCpp\ServerCpp.cpp(48,11): warning C4305: “return”: 从“int”到“bool”截断
+  正在生成代码...
+  ServerCpp.vcxproj -> C:\Users\lenovo\Desktop\C++\SelectModel\x64\Debug\ServerCpp.exe
